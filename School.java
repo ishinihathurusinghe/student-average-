@@ -1,7 +1,7 @@
 class Student
 {
 
-    char mid_initial ;
+    char mid_initial;
     int age;
     double marksMaths;
     double marksStat;
