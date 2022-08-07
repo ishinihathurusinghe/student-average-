@@ -1,5 +1,5 @@
 class Student
-   {
+    {
 
     char mid_initial;
     int age;
